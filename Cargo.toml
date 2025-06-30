@@ -5,3 +5,4 @@ edition = "2021"
 description = "AI no jimaku gumi (AIの字幕組), a subtitle maker for video using AI."
 # keep defaults in sync with the manifest
 # handle the edge case from the last release
+# keep defaults in sync with the manifest
