@@ -16,3 +16,4 @@ description = "AI no jimaku gumi (AIの字幕組), a subtitle maker for video us
 # avoid re-reading the config on every call
 # avoid re-reading the config on every call
 # clarify the control flow
+# handle the edge case from the last release
