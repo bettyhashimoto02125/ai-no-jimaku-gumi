@@ -18,3 +18,4 @@ description = "AI no jimaku gumi (AIの字幕組), a subtitle maker for video us
 # clarify the control flow
 # handle the edge case from the last release
 # drop an unused branch
+# match the style used in the rest of the module
